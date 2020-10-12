@@ -1,2 +1,2 @@
-# Optmization-Problem
+# Optimization-Methods-For-Analytics
 After a keen study and observation of circumstances faced by Bharat Bazar, our data analyst team decided to provide an optimal solution through decision tree analysis. We recommended either buying a vehicle or seeking another alternative that improved profit gained by the deliveries which persuaded us to build an optimization model of decision tree with four decisions: buying a new vehicle, buying an old vehicle, third-party vehicle and curbside pick-up. This eventually led our team to proceed with data collection and model formulation and enabled us to present an optimal solution to the owner of Bharat Bazar.
